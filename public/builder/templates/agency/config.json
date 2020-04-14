@@ -1,0 +1,12 @@
+{
+    "category": "landing page",
+    "framework": "bootstrap-3",
+    "theme": "yeti",
+    "name": "Agency",
+    "libraries": [
+        "classy",
+        "animated-header",
+        "bootstrap-validation",
+        "jquery-easing"
+    ]
+}

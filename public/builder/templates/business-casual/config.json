@@ -1,0 +1,9 @@
+{
+    "name": "Business Casual",
+    "category": "Blog",
+    "framework": "bootstrap-3",
+    "libraries": [
+        "google-maps",
+        "jquery-easing"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Grayscale",
+    "category": "Landing Page",
+    "framework": "bootstrap-3",
+    "libraries": [
+        "google-maps",
+        "jquery-easing"
+    ]
+}
